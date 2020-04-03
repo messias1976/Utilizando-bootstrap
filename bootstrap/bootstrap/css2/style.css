@@ -1,0 +1,25 @@
+.body {
+    font: 20px Ariel xerifa;
+}
+
+.navbar {
+    background-color: rgb(54, 134, 54);
+}
+
+.quem-somos {
+    background-color: rgb(137, 137, 182);
+    color: cornsilk;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+
+.Parceiros {
+    background-color: tomato;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
